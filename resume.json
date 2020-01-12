@@ -1,0 +1,108 @@
+{
+  "me": {
+    "name": "Márk Munkácsi",
+    "title": "Frontend web developer with UX/UI designer background",
+    "location": {
+      "country": "Hungary",
+      "city": "Budapest"
+    },
+    "email": "munkacsimark@gmail.com",
+    "website": "https://codermark.dev",
+    "gitlab": "https://gitlab.com/munkacsimark",
+    "about": "I'm a passionate developer, who is always learning and chases new challenges. I started my career as a UI designer + sitebuilder. Currently I'm working as a frontend developer for 6 years.",
+    "skills": "As a professional I like to work with new technologies. My strengths are plain JS, ES6, frontend frameworks, React, Vue and frontend technologies like webpack, optimizing, SPAs, WebExtensions. When it's reasonable I like to use Typescript. I have experience (and I like) to work with high-traffic websites/webapps."
+  },
+  "experience": [
+    /*{
+      "name": "Soter-Line Kft.",
+      "role": "Web developer",
+      "description": "I made redesign, improvement and making responsive of existing websites. I dealt with Wordpress themes, PHP scripts but mostly with client side stuff like JS, jQuery, CSS.",
+      "date": {
+        "from": "June 2014", // TODO: use timestamps
+        "to": "August 2014"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    },*/
+    {
+      "name": "Skawa Innovation Ltd.",
+      "role": "Frontend developer",
+      "description": "I worked on our main projects client side. Easyling app is a widely used online proxy translation tool. Our component based app was written in Angular 1, later in Angular 2 with Google’s Dart language.",
+      "date": {
+        "from": "September 2014",
+        "to": "June 2018"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    },
+    {
+      "name": "Ingatlan.com Zrt.",
+      "role": "Senior Frontend developer",
+      "description": "Ingatlan.com is Hungary’s lead real estate site. Our team is developing component based responsive UI with Vuejs. Our own Vue component library is based on ingatlan.com’s style guide.",
+      "date": {
+        "from": "July 2018",
+        "to": "September 2018"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    },
+    {
+      "name": "Docler Holding",
+      "role": "Frontend engineer",
+      "description": "At Docler I’m working on a desktop applications frontend. The app is written in C++ with an embedded browser as a UI. We use React with Redux-Saga.",
+      "date": {
+        "from": "October 2018",
+        "to": "Present"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    }
+  ],
+  "education": [
+    {
+      "name": "Athéné Idegenforgalmi, Informatikai és Üzletemberképző Középiskola",
+      "study": "Graphic designer",
+      "date": {
+        "from": "2009",
+        "to": "2011"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    },
+    {
+      "name": "Óbuda University",
+      "study": "Industrial Engineer",
+      "date": {
+        "from": "2011",
+        "to": "2012"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    },
+    {
+      "name": "Athéné Idegenforgalmi, Informatikai és Üzletemberképző Középiskola",
+      "study": "Web developer",
+      "date": {
+        "from": "2012",
+        "to": "2014"
+      },
+      "location": {
+        "country": "Hungary",
+        "city": "Budapest"
+      }
+    }
+  ],
+  "lastModified": "November 2019"
+}

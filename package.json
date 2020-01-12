@@ -1,0 +1,16 @@
+{
+  "name": "markmunkacsi",
+  "version": "1.0.0",
+  "description": "Márk Munkacsi's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Márk Munkácsi <munkacsimark@gmail.com> (https://codermark.dev)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.3",
+    "json5": "^2.1.1"
+  }
+}
